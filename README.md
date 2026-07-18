@@ -22,7 +22,7 @@ I build the resilient, secure Kubernetes and PostgreSQL platforms that regulated
 
 - **LinkedIn:** [linkedin.com/in/seshig](https://www.linkedin.com/in/seshig) — where I write about production K8s, Postgres HA, and the Staff engineer transition
 - **Medium:** [Production PostgreSQL 17](https://towardsaws.com/production-postgresql-17-synchronous-replication-pgbouncer-connection-pooling-and-full-0809c1581016) on Towards AWS
-- **X:** [@seshig](https://x.com/seshig)
+- **X:** [@seshig](https://x.com/seshikanthgudu1)
 
 ---
 
