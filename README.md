@@ -2,7 +2,7 @@
 
 I build the resilient, secure Kubernetes and PostgreSQL platforms that regulated FinTech engineering teams actually trust in production.
 
-**Currently:** Staff-track Platform Engineer at Early Warning Services (Zelle|Paze|Certos) — Scottsdale, AZ
+**Currently:** Staff-track Platform Engineer at Early Warning Services (Zelle · Paze · Certos) — Scottsdale, AZ
 **Certifications:** CNCF Kubestronaut (CKA · CKS · CKAD · KCNA · KCSA) · AWS Solutions Architect Professional
 **Working on:** PostgreSQL 17 HA patterns, Go-based Kubernetes tooling, FinOps for regulated workloads
 
