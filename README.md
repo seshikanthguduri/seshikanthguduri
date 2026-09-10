@@ -4,6 +4,8 @@ I build the resilient, secure Kubernetes and PostgreSQL platforms that regulated
 
 **Currently:** Staff-track Platform Engineer at Early Warning Services (Zelle · Paze · Certos) — Scottsdale, AZ.
 
+**Portfolio:** [seshikanthguduri.github.io](https://seshikanthguduri.github.io/) — certifications, projects, and experience in one place.
+
 **Certifications:** CNCF Kubestronaut (CKA · CKS · CKAD · KCNA · KCSA) · AWS Solutions Architect Professional. 
 
 **Working on:** PostgreSQL 17 HA patterns, Go-based Kubernetes tooling, FinOps for regulated workloads
@@ -22,6 +24,7 @@ I build the resilient, secure Kubernetes and PostgreSQL platforms that regulated
 
 #### Find me elsewhere
 
+- **Portfolio:** [seshikanthguduri.github.io](https://seshikanthguduri.github.io/) — full breakdown of certifications, projects, and experience
 - **LinkedIn:** [linkedin.com/in/seshig](https://www.linkedin.com/in/seshig) — where I write about production K8s, Postgres HA, and the Staff engineer transition
 - **Medium:** [Production PostgreSQL 17](https://towardsaws.com/production-postgresql-17-synchronous-replication-pgbouncer-connection-pooling-and-full-0809c1581016) on Towards AWS
 - **X:** [@seshikanthg](https://x.com/seshikanthg)
