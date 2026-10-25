@@ -8,13 +8,13 @@ I build the resilient, secure Kubernetes and PostgreSQL platforms that regulated
 
 **Certifications:** CNCF Kubestronaut (CKA · CKS · CKAD · KCNA · KCSA) · AWS Solutions Architect Professional. 
 
-**Working on:** PostgreSQL 17 HA patterns, Go-based Kubernetes tooling, FinOps for regulated workloads
+**Working on:** PostgreSQL HA patterns, Go-based Kubernetes tooling, FinOps for regulated workloads
 
 ---
 
 #### What you'll find here
 
-🐘 **[PG17 + PgBouncer + Prometheus + Grafana](https://github.com/seshikanthguduri)** — production-grade PostgreSQL 17 with sync replication, connection pooling, and full observability. Companion to my [Towards AWS deep-dive](https://towardsaws.com/production-postgresql-17-synchronous-replication-pgbouncer-connection-pooling-and-full-0809c1581016).
+🐘 **[PostgreSQL + PgBouncer + Prometheus + Grafana](https://github.com/seshikanthguduri/Grafana-Prometheus-PGBouncer-PostgreSQL)** — production-grade PostgreSQL with sync replication, connection pooling, and full observability. Companion to my [Towards AWS deep-dive](https://towardsaws.com/production-postgresql-17-synchronous-replication-pgbouncer-connection-pooling-and-full-0809c1581016).
 
 ☸️ **Kubernetes tooling** — small Go CLIs and Helm charts I've extracted from real platform work.
 
@@ -26,7 +26,7 @@ I build the resilient, secure Kubernetes and PostgreSQL platforms that regulated
 
 - **Portfolio:** [seshikanthguduri.github.io](https://seshikanthguduri.github.io/) — full breakdown of certifications, projects, and experience
 - **LinkedIn:** [linkedin.com/in/seshig](https://www.linkedin.com/in/seshig) — where I write about production K8s, Postgres HA, and the Staff engineer transition
-- **Medium:** [Production PostgreSQL 17](https://towardsaws.com/production-postgresql-17-synchronous-replication-pgbouncer-connection-pooling-and-full-0809c1581016) on Towards AWS
+- **Medium:** [Production PostgreSQL](https://towardsaws.com/production-postgresql-17-synchronous-replication-pgbouncer-connection-pooling-and-full-0809c1581016) on Towards AWS
 - **X:** [@seshikanthg](https://x.com/seshikanthg)
 
 ---
