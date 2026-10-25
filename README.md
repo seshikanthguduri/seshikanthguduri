@@ -35,4 +35,4 @@ I build the resilient, secure Kubernetes and PostgreSQL platforms that regulated
 
 Documentation-first. Metric-honest. Boring, reliable infrastructure. Coaching the next SRE.
 
-Open to conversations about Staff / Principal Platform Engineer roles at teams that take reliability seriously.
+I write and build in the open — production Kubernetes, PostgreSQL HA, and platform reliability for teams that take it seriously.
